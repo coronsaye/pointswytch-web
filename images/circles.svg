@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1017" height="1017" viewBox="0 0 1017 1017">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.07;
+      }
+
+      .cls-2 {
+        opacity: 0.06;
+      }
+    </style>
+  </defs>
+  <circle id="Shape_58_copy_2" data-name="Shape 58 copy 2" class="cls-1" cx="508.5" cy="508.5" r="508"/>
+  <circle id="Shape_58_copy" data-name="Shape 58 copy" class="cls-2" cx="508.5" cy="508.5" r="176.5"/>
+  <circle class="cls-2" cx="508.5" cy="508.5" r="62.5"/>
+</svg>
